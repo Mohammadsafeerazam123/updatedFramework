@@ -8,6 +8,7 @@ public class LogoutAndLogin {
 		public  void login(String[] args) {
 			System.out.println("LOgout successful With phone number");
 			System.out.println("modification done");
+			System.out.println("done");
 		}
 
 	}
