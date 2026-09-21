@@ -5,6 +5,10 @@ public class LogoutAndLogin {
 			System.out.println("LOgout successful now delete the eclipse");
 			System.out.println("modification done");
 		}
+		public  void login(String[] args) {
+			System.out.println("LOgout successful With phone number");
+			System.out.println("modification done");
+		}
 
 	}
 
